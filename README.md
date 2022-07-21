@@ -23,6 +23,14 @@ src/
 - ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+## How You Can Contribute to This Project
+- ⭐ this Repo
+- Fork the repo.
+- Make your addition  by creating a text file with your GitHub username(Hira-Amir.txt) and describe yourself in three words
+- Click on the green button (Compare and Pull request)
+- Click on Send Pull Request
+- Wait for you PR to be reviewed and merge approval
+
 ## LICENSE
 
 [MIT LICENSE](LICENSE)
